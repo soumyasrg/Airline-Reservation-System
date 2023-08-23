@@ -1,5 +1,7 @@
 # AIRLINE-RESERVATION-SYSTEM using Java, Swing, MySQL
 
-## Download application JAR from /dist/Airline-Reservation-System.jar and then run it
+## Step1. Clone project into your local
 
-## Application uses Remote MySQL database so a slight delay in fetching data is expected.
+## Step2. Run application JAR from /dist/Airline-Reservation-System.jar
+
+## Note: Application uses Remote MySQL database so a slight delay in fetching data is expected.
